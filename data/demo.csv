@@ -1,0 +1,9 @@
+Policyholder ID,Claim Number,Monthly Benefit,Cause of Claim,Paid From Date,Paid To Date,Amount Paid
+A,A1,100,Hand Injury,1/01/2020,15/01/2020,50
+A,A1,100,Hand Injury,16/01/2020,31/01/2020,50
+B,B1,200,Cancer,1/01/2020,31/01/2020,200
+C,C1,500,Foot Injury,1/01/2020,31/03/2020,1000
+A,A2,100,Hand Injury,1/02/2020,15/02/2020,50
+B,B1,200,Cancer,1/02/2020,15/02/2020,100
+B,B2,200,Depression,1/03/2020,31/03/2020,200
+C,C1,500,Foot Injury,1/04/2020,30/06/2020,500
